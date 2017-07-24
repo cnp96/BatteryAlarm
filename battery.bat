@@ -1,0 +1,1 @@
+start "dist/batt_alarm.exe"
